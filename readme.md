@@ -46,8 +46,8 @@ You can later enable live news fetching by adding a valid NEWSAPI_KEY.
 
 Clone the repo:
 
-git clone https://github.com/RONIN874/News-Fetcher.git
-cd News-Fetcher
+git clone https://github.com/RONIN874/News-Summarizer.git
+cd News-Summarizer
 
 Install dependencies:
 
